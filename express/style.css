@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI',cursive
+}
+.mySlides{
+    display: none
+}
+p.w3-justify{
+    font-family: 'Segoe UI',cursive;
+    font-size: 1em;
+    text-indent: 50px;
+}
+div.w3-third{
+    font-family: 'Segoe UI',fantasy;
+    font-size: 1.2em;
+    color: green;
+}
+.w3-black, .w3-button{
+    background-color: black;
+}
+p.w3-opacity{
+    color: red;
+}
+p{
+    font-family: cursive;
+}
+a.w3-bar-item{
+    color: white;
+}
+
+img.w3-round{
+    border-radius:6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ul li {
+    color: green;
+    list-style: none;
+}
